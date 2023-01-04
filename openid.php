@@ -4,10 +4,10 @@
  * 
  * It requires PHP >= 5.1.2 with cURL or HTTP/HTTPS stream wrappers enabled.
  *
- * @version     v1.3.1 (2016-03-04)
- * @link        https://code.google.com/p/lightopenid/          Project URL
- * @link        https://github.com/iignatov/LightOpenID         GitHub Repo
- * @author      Mewp <mewp151 at gmail dot com>
+ * @version     v1.3.1.2 (2023-01-04)
+ * @link        https://github.com/DrKittens/LightOpenID         GitHub Repo
+ * LEAVING FOR ORIGINAL CREDIT, DO NOT CONTACT FOR THIS PROJECT AS IT IS UNSUPPORTED BY THEM!!
+ * @author      Mewp <mewp151 at gmail dot com>	
  * @copyright   Copyright (c) 2013 Mewp
  * @license     http://opensource.org/licenses/mit-license.php  MIT License
  */

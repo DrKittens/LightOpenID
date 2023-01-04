@@ -1,6 +1,6 @@
 > **NOTICE**
 
-> I am no longer able to support or maintain this project - if you would like to take over the project, please drop me a line.
+> Forked from unmaintained project https://github.com/iignatov/LightOpenID/, not "official" version, just merged the upstream commits that really should have been accepted...
 
 # LightOpenID
 
